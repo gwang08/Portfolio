@@ -116,9 +116,9 @@ var queue = [
     border-radius: 10px;
   "
 />
-<p style="margin-top:5px">Asking Rin-chan even code!!!</p>`,
+<p style="margin-top:5px">  Ready to elevate your tech game?</p>`,
     `<p class="col-md-9" style="font-size: max(12px, 1.2vw)">
-F-tech shop. Trusted e-commerce site.<br /><br />Discover the latest phones, laptops, AirPods, and watches in a sleek, user-friendly environment. Shop now for unbeatable deals and cutting-edge technology!
+  Welcome to F-tech Shop, your trusted destination for all things tech!<br /><br /> Explore an extensive selection of the latest smartphones, laptops, AirPods, and smartwatches, all in a sleek and user-friendly environment. Dive into our unbeatable deals and embrace cutting-edge technology today!
   </p>
  
     <a href="https://github.com/gwang08/ecommerce-website" target="_blank"><i class="fa-brands fa-github" style="font-size: 100%;">  See github repository</i></a>
@@ -139,10 +139,10 @@ F-tech shop. Trusted e-commerce site.<br /><br />Discover the latest phones, lap
     border-radius: 10px;
   "
 />
-<p style="margin-top:5px">Asking Rin-chan even code!!!</p>`,
+<p style="margin-top:5px">  Buy and Sell Your Tickets with Confidence!</p>`,
     `<p class="col-md-9" style="font-size: max(12px, 1.2vw)">
-Ticket Resell Web – Your Trusted Ticket Marketplace
-<br /><br /> Discover and trade tickets for exclusive events effortlessly. Enjoy secure, seamless buying and selling experiences on a trusted platform.
+ Welcome to Ticket Resell Web – Your Premier Ticket Marketplace!
+<br /><br />  Easily discover, buy, and sell tickets for the hottest events in town. Enjoy a safe and seamless experience on our trusted platform, designed for both buyers and sellers. Join us today and unlock exclusive opportunities!
   </p>
  
     <a href="https://github.com/VKev/Ticket-Resell-Web-App" target="_blank"><i class="fa-brands fa-github" style="font-size: 100%;">  See github repository</i></a>
