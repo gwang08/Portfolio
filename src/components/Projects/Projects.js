@@ -35,7 +35,7 @@ function Projects() {
               title="Ticket Resell"
               description="A dynamic ticket reselling platform that allows users to buy and sell event tickets. Built with Next.js and Tailwind CSS, it includes features like user authentication, real-time listings, and a clean interface that enhances the user experience."
               ghLink="https://github.com/gwang08/TicketResell_Web"
-              demoLink="https://github.com/gwang08/TicketResell_Web"
+              demoLink="http://ticketresell.shop/"
             />
           </Col>
         </Row>
